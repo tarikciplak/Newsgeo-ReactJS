@@ -1,4 +1,4 @@
-#
+# About
 Location based news app
 It is filterable on the map, simple and convenient.
 
