@@ -22,4 +22,3 @@ React is an awesome and minimalistic framework to make a modern universal react 
  - 🚄 Dynamic routing with express
  -  Animations with Framer-motion
  - Leaflet used for dynamic mapping and state management 
- 
