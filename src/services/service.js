@@ -10,6 +10,6 @@ export const createNews = async (data) => {
 } 
 
 export const fetchGlobularlNews = async () => {
-    return await axios.get("http://localhost:5000/news")
+    return await axios.get("http://localhost:5000/news/Globular")
 
 }
