@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/48831110/128634128-31965929-3b65-4499-
 
 ### Redux
 
-Redux is an awesome and minimalistic framework to make a modern universal react app. However, there're times that we need a bit more features to build a complex SPA. That's why this project is born.
+React is an awesome and minimalistic framework to make a modern universal react app. However, there're times that we need a bit more features to build a complex SPA. That's why this project is born.
 
 
 ### Features
