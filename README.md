@@ -20,4 +20,5 @@ Redux is an awesome and minimalistic framework to make a modern universal react 
  -  🗄 State management with redux, react-redux 
  - 💅  Styling with styled-components
  - 🚄 Dynamic routing with express
+ -  Animations with Framer-motion
  - Leaflet used for dynamic mapping and state management 
