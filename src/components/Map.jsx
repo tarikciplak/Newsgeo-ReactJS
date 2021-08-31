@@ -29,7 +29,7 @@ const circle = { color: "#1a73e8", fillColor: "aqua" };
 
 const Map = () => {
   const zoomRef = useRef()
-  const center = [38.349761, 26.682072];
+  const center = [38.274561, 27.245505];
   const zoom = 8;
   const dispatch = useDispatch();
   const [position, setPosition] = useState(center);
