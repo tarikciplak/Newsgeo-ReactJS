@@ -38,7 +38,7 @@ const Map = () => {
 
   useEffect(() => {
     dispatch(fetchNews());
-  }, [dispatch]);
+  }, []);
  
   const displayMap = useMemo(
     () => (
